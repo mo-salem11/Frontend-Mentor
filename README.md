@@ -1,1 +1,1 @@
-# Frontend-Mentor
+# Frontend-Mentor - Results summary component
